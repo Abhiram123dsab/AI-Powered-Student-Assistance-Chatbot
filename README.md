@@ -21,4 +21,4 @@ This project is an AI-powered chatbot designed to assist with inquiries related 
 - Voice Recognition: Web Speech API
 - Containerization: Docker
 
-## Project Structure
+
