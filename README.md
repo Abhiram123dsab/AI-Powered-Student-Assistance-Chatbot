@@ -1,5 +1,8 @@
 **#AI-Powered Student Assistance Chatbot for Technical Education in Rajasthan**
-Project Overview:
+
+
+
+**Project Overview:**
 This project is an AI-powered chatbot designed to assist with inquiries related to the admission process and general student queries for engineering and polytechnic institutes in Rajasthan. The chatbot serves as a virtual assistant, providing real-time information about colleges, admission procedures, eligibility criteria, fees, scholarships, hostel facilities, and placement opportunities, with multilingual support.
 
 ## Features
