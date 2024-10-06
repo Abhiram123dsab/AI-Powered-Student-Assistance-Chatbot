@@ -22,7 +22,7 @@ This project is an AI-powered chatbot designed to assist with inquiries related 
 - Voice Recognition: Web Speech API
 - Containerization: Docker
 
-Technical Requirements:
+**Technical Requirements:**
 
 Programming Language:
 Python: For backend development and machine learning models.
@@ -46,12 +46,11 @@ PostgreSQL: To store structured data such as user queries, responses, and import
 APIs for Data Access:
 RESTful API: Develop APIs to fetch real-time data such as admission deadlines, cutoff marks, scholarships, etc., from relevant databases and display them in the chatbot's interface.
 
-
 GitHub: For version control and collaboration with team members.
 Docker: To containerize the chatbot application for easy deployment and scalability.
 Let’s Encrypt: For adding a free SSL certificate to secure the website and chatbot communication.
-Testing and Optimization:
 
+Testing and Optimization:
 Implement unit tests for chatbot functionality.
 Use A/B testing to refine response generation and improve user experience.
 
